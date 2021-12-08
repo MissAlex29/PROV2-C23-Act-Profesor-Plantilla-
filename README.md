@@ -1,2 +1,2 @@
-# PRO-C23
-Plantilla para actividad del profesor 
+# PRO-C22
+estructura alámbrica para c22 
